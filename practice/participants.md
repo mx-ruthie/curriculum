@@ -42,3 +42,6 @@
 - Meia Natividad
 - Abigail "boba" Edwards 
 - Yingjie Wang 
+
+# 2022 H2 
+- Sophia Pung
