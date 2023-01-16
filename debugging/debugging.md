@@ -1,13 +1,5 @@
 # Debugging
 
-### Projected Time
-
-1.5 to 2 hours
-
-- 12 minutes for a video walkthrough of slides
-- 45 minutes for Independent Practice #1
-- 30 minutes combined for Independent Practice #2 & Group Practice #1
-
 ### Prerequisites
 
 - Techtonica's HTML/CSS & JS workshops
