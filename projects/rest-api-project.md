@@ -5,6 +5,9 @@ A RESTful API is an Application Programming Interface (API) that uses HTTP verbs
 ![Screenshoot](https://raw.githubusercontent.com/Yosolita1978/screenshoots/f2fdebc24a671f11394d8da1a9355a0ed4ce4a29/Week5/Screen%20Shot%202022-08-14%20at%201.58.39%20PM.png)
 
 ### Learning Objective: 
+
+NOTE: Pair Programming on the second day of Week 6 will inform the work you do on this project, so don't get too off track trying to work on it before that session.
+
 What you will learn with this project is how to organize the data that comes from your backend using a REST API. At this moment, you don't know how to connect a DB, so for now, we will work with data in a JSON. (see the file [books.js](https://github.com/Yosolita1978/RESTAPI-mybooks/blob/main/restapi/books.js))
 
 Don't be afraid of the terminology. A REST API it's just a way of organizing data according to the CRUD operations
@@ -21,9 +24,11 @@ Don't be afraid of the terminology. A REST API it's just a way of organizing dat
 * Using that endpoint build a list of all your books in the frontend (client side). Note: you will need to make a GET request to bring all your information in the frontend too
 * Using Node and Express, create a route for each one of the verbs in CRUD operations
 * Using those endpoints allow the user to Delete a Book, Edit a Book, or Update a book from your original list
+* Commit your code at least 15 times
+* Submit at least 1 PR
 
 ## Helping Resources:
-* You can see how the first task in [Cristina's example](https://github.com/Yosolita1978/RESTAPI-mybooks/tree/main/restapi). This code only does a route for the initial GET and shows the list of her books
+* You can see the first task in [Cristina's example](https://github.com/Yosolita1978/RESTAPI-mybooks/tree/main/restapi). This code only does a route for the initial GET and shows the list of her books
 * [Here is a good reading tutorial on how to work a REST API for your books](https://stackabuse.com/building-a-rest-api-with-node-and-express/)
 * [Here is a good video tutorial on how to work a REST API for users](https://www.youtube.com/watch?v=l8WPWK9mS5M&ab_channel=JavaScriptMastery)
 
